@@ -18,7 +18,7 @@ int main() {
     diff = number1 - number2;      
     
     printf("%d - %d = %d", number1, number2, diff);
-	 printf("Hello");
+	
 	
    return 0;
 }
